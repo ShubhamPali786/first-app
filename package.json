@@ -1,0 +1,27 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "nodemon": "^2.0.15",
+    "node": "^17.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamPali786/first-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamPali786/first-app/issues"
+  },
+  "homepage": "https://github.com/ShubhamPali786/first-app#readme"
+}
